@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=01_Index.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=02_Overview.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=03_Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=04_MCU_Part.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=05_FPGA_SOC_Part1.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=06_FPGA_SOC_Part2.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=07_Peripheral_Part.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=08_Target_Bd_Connector.SchDoc|SheetNumber=8
