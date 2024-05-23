@@ -210,6 +210,147 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYVBOWYC
 
+[Document11]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=https://d.docs.live.net/27155264df4fa9c1/04_Development/01_Project/Active/09_TEST-Carrier_Bd/Proj-Test-Carrier_Bd/Rev_A/01_HW/Test Carrier Bd/Project Outputs for Test Carrier Bd/BOM/Bill of Materials-Test_Carrier_Bd.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Test Carrier Bd\Design Rule Check - Test_Carrier_Bd.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Test Carrier Bd\Pick Place\Pick Place for Test_Carrier_Bd.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Test Carrier Bd\Pick Place\Pick Place for Test_Carrier_Bd.txt
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Test Carrier Bd\NC Drill\Test_Carrier_Bd-RectHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Test Carrier Bd\NC Drill\Test_Carrier_Bd.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.G1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.G2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.G3
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.G4
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Test Carrier Bd\NC Drill\Test_Carrier_Bd.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Test Carrier Bd\Gerber\Test_Carrier_Bd.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Test Carrier Bd\NC Drill\Test_Carrier_Bd.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
